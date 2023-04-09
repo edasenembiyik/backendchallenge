@@ -39,7 +39,8 @@ Kullanılan Araç Ve Teklonojiler
  ![image](https://user-images.githubusercontent.com/96740740/230798609-ecb41ee9-f6c7-46ef-8ae0-27cde763fc2c.png)
  
                                              Endpointler
-                                             ![image](https://user-images.githubusercontent.com/96740740/230798640-7b86a137-b462-4e3a-8b8d-6c8b6f5370ec.png)
+                                  
+![image](https://user-images.githubusercontent.com/96740740/230798662-227a81ea-92a5-4d38-b805-3dc270664d08.png)
 
 
 
