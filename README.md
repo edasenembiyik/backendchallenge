@@ -6,8 +6,12 @@
  ![image](https://user-images.githubusercontent.com/96740740/230798596-9f19a42c-ce1e-43ed-ad42-8db2384a01dc.png)
 
 *Bu aşamada postgresql database i ve uygulama ayağa kalkacaktır.
+
 Aşağıdaki link ile endpointler çağırabilir.
+
 http://localhost:8080/swagger-ui/index.html#/
+
+
 2.YOL:
 Postgre de enocaDB database ini  oluşturunuz.
       Application.yml dosyasına kendi uygulamanızın username ve password bilgilerinizi giriniz.
